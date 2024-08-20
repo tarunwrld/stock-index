@@ -1,0 +1,4 @@
+com\stock_index\stock_index\indexcontroller\IndexController.class
+com\stock_index\stock_index\indexservice\IndexService.class
+com\stock_index\stock_index\indexentity\IndexEntity.class
+com\stock_index\stock_index\StockIndexApplication.class
