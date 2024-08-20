@@ -29,7 +29,7 @@ public class IndexService {
 
     public void getlatest() {
         try {
-            String url = "https://www.google.com/finance/quote/M%26M:NSE?hl=en"; // Verify this URL
+            String url = "https://www.google.com/finance/quote/M%26M:NSE?hl=en=in"; // Verify this URL
             String response = getStockIndex(url);
             Document doc = Jsoup.parse(response);
 
